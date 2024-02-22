@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shraddha.gupta/Desktop/MLOps/MLOps_End_to_End/MLOps_End_to_End_Project/mlruns/0/6089b6cc7b1a45a1a5ac76b9e53a54e3/artifacts
+end_time: 1708594453413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6089b6cc7b1a45a1a5ac76b9e53a54e3
+run_name: vaunted-panda-66
+run_uuid: 6089b6cc7b1a45a1a5ac76b9e53a54e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708594450432
+status: 3
+tags: []
+user_id: shraddha.gupta

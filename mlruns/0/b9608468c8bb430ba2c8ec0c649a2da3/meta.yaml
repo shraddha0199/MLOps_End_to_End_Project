@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/shraddha.gupta/Desktop/MLOps/MLOps_End_to_End/MLOps_End_to_End_Project/mlruns/0/b9608468c8bb430ba2c8ec0c649a2da3/artifacts
+end_time: 1708594605231
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b9608468c8bb430ba2c8ec0c649a2da3
+run_name: rogue-sloth-983
+run_uuid: b9608468c8bb430ba2c8ec0c649a2da3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708594602313
+status: 3
+tags: []
+user_id: shraddha.gupta
